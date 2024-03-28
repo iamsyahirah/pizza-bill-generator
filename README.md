@@ -1,2 +1,2 @@
-# pizza-bill-generator
+# Pizza bill generator
 Simple project using java
